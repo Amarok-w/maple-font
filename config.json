@@ -11,7 +11,7 @@
         "bold": 700,
         "extrabold": 800
     },
-    "line_height": 1.0,
+    "line_height": 0.9,
     "use_hinted": true,
     "ligature": true,
     "width": "slim",
